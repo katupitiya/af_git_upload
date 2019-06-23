@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My first snapshot test2 testing app button 1`] = `
+<div>
+  <div
+    className="header-top"
+  >
+    <div
+      className="logo"
+    >
+      <div
+        className="logohandling"
+      />
+    </div>
+    <div
+      className="container"
+    >
+      <div
+        className="row align-items-center"
+      >
+        <div
+          className="col-lg-6 col-sm-6 col-4 header-top-left"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="limiter"
+  >
+    <div
+      className="container-login100"
+    >
+      <div
+        className="wrap-login100"
+      >
+        <form
+          className="login100-form validate-form"
+          onSubmit={[Function]}
+        >
+          <span
+            className="login100-form-title p-b-34"
+          >
+            Instructor Registartion
+          </span>
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Staff Id"
+              required={true}
+              type="text"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Full Name"
+              required={true}
+              type="text"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Mobile Number"
+              required={true}
+              type="text"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Address"
+              required={true}
+              type="text"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Date Of Birth"
+              required={true}
+              type="date"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Age"
+              type="text"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <select
+              className="down"
+              id="first-name"
+              onChange={[Function]}
+              required={true}
+              value=""
+            >
+              <option
+                className="placeholder"
+                value="select Gender"
+              >
+                Select Gender
+              </option>
+              <option
+                value="Male"
+              >
+                Male
+              </option>
+              <option
+                value="Female"
+              >
+                Female
+              </option>
+            </select>
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <select
+              className="down"
+              id="first-name"
+              onChange={[Function]}
+              value=""
+            >
+              <option
+                value="select state"
+              >
+                Select State
+              </option>
+              <option
+                value="Married"
+              >
+                Married
+              </option>
+              <option
+                value="Single"
+              >
+                Single
+              </option>
+            </select>
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100 "
+          >
+            <input
+              className="input100"
+              id="first-name"
+              onChange={[Function]}
+              placeholder="Email address"
+              required={true}
+              type="email"
+              value=""
+            />
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="wrap-input100"
+          >
+            <input
+              className="input100"
+              name="pass"
+              onChange={[Function]}
+              placeholder="Password"
+              required={true}
+              type="password"
+              value=""
+            />
+            <span
+              className="span"
+            >
+              
+            </span>
+            <span
+              className="focus-input100"
+            />
+          </div>
+          <div
+            className="div1"
+          />
+          <div
+            className="container-login100-form-btn"
+          >
+            <button
+              className="login100-form-btn"
+            >
+              Register
+            </button>
+          </div>
+        </form>
+        <div
+          className="login100-more1"
+        />
+      </div>
+    </div>
+  </div>
+  <footer
+    className="com"
+  >
+    <div
+      className="cont"
+    >
+      <div
+        className="footerdiv"
+      />
+      <div
+        className="row footer-bottom d-flex justify-content-between"
+      >
+        <p
+          className="col-lg-8 col-sm-12 footer-text m-0 text-white"
+        >
+          Copyright © 2018 All rights reserved 
+          <i
+            aria-hidden="true"
+            className="fa fa-heart-o"
+          />
+           
+          <a
+            href="#"
+          />
+        </p>
+        <div
+          className="col-lg-4 col-sm-12 footer-social"
+        >
+          <p
+            className="mail1"
+          >
+            jananisaradha@gmail.com
+          </p>
+                        
+          <p
+            className="mail1"
+          >
+             072-4050478
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

@@ -1,0 +1,73 @@
+.btn{
+    border-radius: 50%;
+    background-color: dodgerblue;
+    width: 250px;
+    height: 250px;
+    padding-left: 100px;
+    padding-top: 20px;
+    background-image: url("../../images/admin2.png");
+    /*pointer-events: none;*/
+}
+
+
+
+
+.btn1{
+    border-radius: 50%;
+    background-color: dodgerblue;
+    width: 250px;
+    padding-top: 20px;
+    height: 250px;
+    background-image: url("../../images/User-icon.png");
+    /*pointer-events: none;*/
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding-left: 190px;
+}
+
+
+.btn2{
+    padding-top: 20px;
+    border-radius: 50%;
+    background-color: dodgerblue;
+    width: 250px;
+    height: 250px;
+    background-image: url("../../images/student2.png");
+    /*pointer-events: none;*/
+}
+
+.com1{
+
+
+    height: 150px;
+    background:#0c5460;
+
+}
+
+.footerdiv1{
+    height: 20px;
+}
+
+.ff{
+    width: 20px;
+    height:200px;
+
+}
+.footerdiv2{
+    height: 25px;
+}
+
+.login{
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.row1{
+    height: 100px;
+
+
+}
+

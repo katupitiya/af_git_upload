@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My first snapshot test testing app button 1`] = `
+<div>
+  <div
+    className="assignment_form"
+    style={
+      Object {
+        "marginTop": "-140px",
+      }
+    }
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="main-form"
+      >
+        <label>
+          Subject Name:
+        </label>
+        <select
+          className="form-input"
+          id="name"
+          name="SubjectName"
+          onChange={[Function]}
+          value=""
+        >
+          <option
+            value="select Subject"
+          >
+            Select Subject
+          </option>
+          <option
+            value="Application Framework"
+          >
+            Application Framework
+          </option>
+          <option
+            value="Distributed System"
+          >
+            Distributed System
+          </option>
+        </select>
+      </div>
+      <div
+        className="main-form"
+      >
+        <label>
+          Assignment Name:
+        </label>
+        <input
+          className="form-input"
+          name="AssignmentName"
+          onChange={[Function]}
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="main-form"
+      >
+        <label>
+          Due Date:
+        </label>
+        <input
+          className="form-input"
+          name="date"
+          onChange={[Function]}
+          type="date"
+          value=""
+        />
+      </div>
+      <div
+        className="main-form"
+      >
+        <button
+          className="form-btn"
+        >
+          Submitt Assignment
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
